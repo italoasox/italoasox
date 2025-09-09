@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ítalo</h1>
+<h1 align="center">Hello! I'm Ítalo</h1>
 <h3 align="center">A Fullstack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **PHP, JAVA and Python**
