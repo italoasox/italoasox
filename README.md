@@ -1,6 +1,3 @@
-
-<h3 align="center">Analista de Suporte</h3>
-
 - 🌱 As vezes lanço uns projetos ae**
 
 - 📫 **italo_intz@outlook.com**
