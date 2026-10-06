@@ -1,4 +1,4 @@
-- 🌱 As vezes lanço uns projetos ae**
+- 🌱 As vezes lanço uns projetos ae
 
 - 📫 **italo_intz@outlook.com**
 
